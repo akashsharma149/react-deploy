@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-deploy/static/css/main.b63f9e4c.chunk.css",
+    "main.js": "/react-deploy/static/js/main.9c68780f.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.9c68780f.chunk.js.map",
+    "runtime-main.js": "/react-deploy/static/js/runtime-main.33a93e91.js",
+    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.33a93e91.js.map",
+    "static/js/2.c3325db6.chunk.js": "/react-deploy/static/js/2.c3325db6.chunk.js",
+    "static/js/2.c3325db6.chunk.js.map": "/react-deploy/static/js/2.c3325db6.chunk.js.map",
+    "static/js/3.9b5b12e5.chunk.js": "/react-deploy/static/js/3.9b5b12e5.chunk.js",
+    "static/js/3.9b5b12e5.chunk.js.map": "/react-deploy/static/js/3.9b5b12e5.chunk.js.map",
+    "index.html": "/react-deploy/index.html",
+    "static/css/main.b63f9e4c.chunk.css.map": "/react-deploy/static/css/main.b63f9e4c.chunk.css.map",
+    "static/js/2.c3325db6.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.c3325db6.chunk.js.LICENSE.txt",
+    "static/media/akash_pic.264d9f36.JPG": "/react-deploy/static/media/akash_pic.264d9f36.JPG",
+    "static/media/logo.6ce24c58.svg": "/react-deploy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33a93e91.js",
+    "static/js/2.c3325db6.chunk.js",
+    "static/css/main.b63f9e4c.chunk.css",
+    "static/js/main.9c68780f.chunk.js"
+  ]
+}
